@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Henry👋
 
-<!--
-**henry-bao/henry-bao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on things related to Discord.js
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java, JavaScript and TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m apart of Vade Development, and mainly foucsing on the music side of things for Vade bot
+
+- 💬 Ask me about anything! Whether is MongoDB or any other JavaScript and Discord.js related question I will be more than happy to help with!
+
+- 📫 How to reach me: You can add me on Discord `Hackel#1337`
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: As a poor college student, I first started working on Discord.js because I didn't want to pay for premium commands
