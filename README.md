@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java, JavaScript and TypeScript
 
-- 👯 I’m apart of Vade Development, and mainly foucsing on the music side of things for Vade bot
+- 👯 I’m apart of Vade Development, and mainly foucsing on the music side of things for Vade bot. Occasionally, you could find me commenting on the [EvoBot](https://github.com/eritislami/evobot) repo
 
 - 💬 Ask me about anything! Whether is MongoDB or any other JavaScript and Discord.js related question I will be more than happy to help with!
 
