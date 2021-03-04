@@ -13,3 +13,6 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: As a poor college student, I first started working on Discord.js because I didn't want to pay for premium commands
+
+
+_Also I total didn't just use the temple they had_
