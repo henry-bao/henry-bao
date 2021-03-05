@@ -15,4 +15,4 @@
 - ⚡ Fun fact: As a poor college student, I first started working on Discord.js because I didn't want to pay for premium commands
 
 
-_Also I totally didn't just use the temple they had_
+_Also I totally didn't just use the template they had_
