@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on things related to Discord.js
 
-- 🌱 I’m learning Java, JavaScript and TypeScript
+- 🌱 I’m learning Java, JavaScript (Kotlin and TypeScript SoonTM)
 
 - 👯 I’m apart of Vade Development, and mainly foucsing on the music side of things for [Vade](https://vade-bot.com) bot. Occasionally, you could find me commenting on the [EvoBot](https://github.com/eritislami/evobot) repo
 
