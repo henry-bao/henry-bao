@@ -102,5 +102,3 @@
         />
     </a>
 </p>
-
-_Also I totally didn't just use the template they had_
