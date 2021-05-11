@@ -1,16 +1,11 @@
 ### Hi there, I am Henry👋
 
 - 🔭 I’m currently working on things related to Discord.js
-
 - 🌱 I’m learning Java and JavaScript (Kotlin and TypeScript Soon™)
-
 - 👯 I’m apart of Vade Development, and mainly foucsing on the music side of things for [Vade](https://vade-bot.com) bot. You could also find me commenting on the [EvoBot](https://github.com/eritislami/evobot) repo occasionally
 - 🏫 I’m currently a sophormore studying [Informatics](https://en.wikipedia.org/wiki/Informatics) with a concentration of human-computer interaction at the [University of Washington](https://www.washington.edu/)
-
 - 💬 Ask me about anything! Whether is MongoDB or any other JavaScript and Discord.js related questions I will be more than happy to help with!
-
 - 📫 How to reach me: You can add me on Discord `Hackel#1337`
-
 - 😄 Pronouns: He/Him
 
 <p align="left">
