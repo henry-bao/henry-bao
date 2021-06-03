@@ -1,5 +1,4 @@
 ### Hi there, I am Henry👋
-
 - 🔭 Currently working on things related to Discord.js
 
 - 🌱 Learning Java and JavaScript (Kotlin and TypeScript Soon™)
@@ -11,7 +10,8 @@
 - 📫 How to reach me: You can add me on Discord `Hackel#1337`
 
 - 😄 Pronouns: He/Him
-
+<br></br>
+### My language and tools
 <p align="left">
     <a href="https://git-scm.com/" target="_blank">
         <img
