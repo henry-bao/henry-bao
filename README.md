@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything! Whether is MongoDB or any other JavaScript and Discord.js related questions I will be more than happy to help with!
 
-- 📫 How to reach me: You can add me on Discord `Hackel#1337` or shoot me an e-mail @ [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
+- 📫 How to reach me: You can add me on Discord `Hackel#1337` or shoot me an e-mail at [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
 
 
 - 😄 Pronouns: He/Him
