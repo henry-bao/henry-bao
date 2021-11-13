@@ -3,7 +3,7 @@
 
 - 🌱 Learning Java and JavaScript (Kotlin and TypeScript Soon™)
 
-- 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics) with a concentration of human-computer interaction at the [University of Washington](https://www.washington.edu/)
+- 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics) with a concentration in human-computer interaction at the [University of Washington](https://www.washington.edu/)
 
 - 💬 Ask me about anything! Whether is MongoDB or any other JavaScript and Discord.js related questions I will be more than happy to help with!
 
