@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: You can add me on Discord `Hackel#1337` or shoot me an e-mail at [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
 
-
 - 😄 Pronouns: He/Him
 <br></br>
 ### My language and tools
