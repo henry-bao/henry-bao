@@ -1,7 +1,7 @@
 ### Hi there, I am Henry 👋
 - 🔭 Currently working on things related to Discord.js
 
-- 🌱 Learning Java and JavaScript (Kotlin and TypeScript Soon™)
+- 🌱 Learning Java, JavaScript, and TypeScript (Kotlin Soon™)
 
 - 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics) with a concentration in human-computer interaction at the [University of Washington](https://www.washington.edu/)
 
