@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: He/Him
 <br></br>
-### My language and tools
+### My language and tools 🔨
 <p align="left">
     <a href="https://git-scm.com/" target="_blank">
         <img
