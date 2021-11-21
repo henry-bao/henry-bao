@@ -5,7 +5,7 @@
 
 - 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics) with a concentration in human-computer interaction at the [University of Washington](https://www.washington.edu/)
 
-- 💬 Ask me about anything! Whether is MongoDB or any other JavaScript and Discord.js related questions I will be more than happy to help with!
+- 💬 Ask me about anything! I will be more than happy to help :D
 
 - 📫 How to reach me: You can add me on Discord `Hackel#1337` or shoot me an e-mail at [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
 
