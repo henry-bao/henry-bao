@@ -3,7 +3,7 @@
 
 - 🌱 Learning Java, JavaScript, and TypeScript (Kotlin Soon™)
 
-- 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics) with a concentration in human-computer interaction at the [University of Washington](https://www.washington.edu/)
+- 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
 
 - 💬 Ask me about anything! I will be more than happy to help :D
 
