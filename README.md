@@ -5,11 +5,11 @@
 
 - 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
 
-- 📫 E-mail [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
+- 📫 E-mail - [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
 
-- 👾 Discord `Hackel#1337`
+- 👾 Discord - `Hackel#1337`
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns - He/Him
 <br></br>
 ### My language and tools 🔨
 <p align="left">
