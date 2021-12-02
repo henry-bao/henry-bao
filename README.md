@@ -5,9 +5,9 @@
 
 - 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
 
-- 💬 Ask me about anything! I will be more than happy to help :D
+- 📫 E-mail [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
 
-- 📫 How to reach me: You can add me on Discord `Hackel#1337` or shoot me an e-mail at [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
+- 👾 Discord `Hackel#1337`
 
 - 😄 Pronouns: He/Him
 <br></br>
