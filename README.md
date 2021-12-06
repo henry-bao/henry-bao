@@ -1,4 +1,5 @@
-### Hi there, I am Henry 👋
+## 👋 Hello there！
+### I am Henry 
 - 🔭 Currently working on things related to Discord.js
 
 - 🌱 Learning Java, JavaScript, and TypeScript (Kotlin Soon™)
