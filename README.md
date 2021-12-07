@@ -11,7 +11,7 @@
 - 👾 Discord - `Hackel#1337`
 
 - 😄 Pronouns - He/Him
-<br></br>
+
 ### My language and tools 🔨
 <p align="left">
     <a href="https://git-scm.com/" target="_blank">
@@ -95,3 +95,8 @@
         />
     </a>
 </p>
+
+### Current Keyboard ⌨️
+`Gok 7V`
+
+<img src="/img/7v.jpg" alt="gok 7v keyboard" width="45%"/>
