@@ -1,5 +1,5 @@
 ## 👋 Hello there！
-### I'm Henry
+### I'm Henry 🙇‍♂
 - 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
 
 - 🔭 Currently working on things related to Discord.js
@@ -99,6 +99,6 @@
 </p>
 
 ### Current keyboard ⌨️
-[`Gok 7V`](https://www.gok.design/7v)
+- [`Gok 7V`](https://www.gok.design/7v)
 
 <img src="/img/7v.jpg" alt="gok 7v keyboard" width="45%"/>
