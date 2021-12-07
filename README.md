@@ -1,10 +1,12 @@
 ## 👋 Hello there！
-### I am Henry 
+### I am Henry
+- 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
+
 - 🔭 Currently working on things related to Discord.js
 
 - 🌱 Learning Java, JavaScript, and TypeScript (Kotlin Soon™)
 
-- 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
+- 🎉 Enthusiast to all things custom mechanical keyboard related
 
 - 📫 E-mail - [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
 
@@ -96,7 +98,7 @@
     </a>
 </p>
 
-### Current Keyboard ⌨️
-`Gok 7V`
+### Current keyboard ⌨️
+[`Gok 7V`](https://www.gok.design/7v)
 
 <img src="/img/7v.jpg" alt="gok 7v keyboard" width="45%"/>
