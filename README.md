@@ -8,7 +8,7 @@
 
 - 🎉 Enthusiast to all things custom mechanical keyboard related
 
-- 📫 E-mail - [henry@henrybao.net](mailto:henry@henrybao.net?subject=[GitHub])
+- 📫 E-mail - [henrybao@uw.edu](mailto:henrybao@uw.edu?subject=[GitHub])
 
 - 👾 Discord - `Hackel#1337`
 
