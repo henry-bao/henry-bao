@@ -1,13 +1,9 @@
 ## 👋 Hello there！
 ### I'm Henry 🙇‍♂
 - 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
-
 - 🔭 Currently working on things related to Discord.js
-
 - 🌱 Learning Java, JavaScript, and TypeScript (Kotlin Soon™)
-
 - 🎉 Enthusiast to all things custom mechanical keyboard related
-
 - 😄 Pronouns - He/Him
 
 ### Language and tools 🔨
