@@ -8,10 +8,6 @@
 
 - 🎉 Enthusiast to all things custom mechanical keyboard related
 
-- 📫 E-mail - [henrybao@uw.edu](mailto:henrybao@uw.edu?subject=[GitHub])
-
-- 👾 Discord - `Hackel#1337`
-
 - 😄 Pronouns - He/Him
 
 ### Language and tools 🔨
@@ -97,6 +93,10 @@
         />
     </a>
 </p>
+
+### Contact me 📫
+- E-mail [`henrybao@uw.edu`](mailto:henrybao@uw.edu?subject=[GitHub])
+- Discord `Hackel#1337`
 
 ### Current keyboard ⌨️
 - [`Gok 7V`](https://www.gok.design/7v)
