@@ -92,7 +92,7 @@
 
 ### Contact me 📫
 - E-mail [`henrybao@uw.edu`](mailto:henrybao@uw.edu?subject=[GitHub])
-- Discord `Hackel#1337`
+- Discord [`Hackel#1337`](https://discord.com/users/271039148075384833)
 
 ### Current keyboard ⌨️
 - [`Gok 7V`](https://www.gok.design/7v)
