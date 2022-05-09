@@ -91,7 +91,7 @@
 </p>
 
 ### Contact me 📫
-- E-mail [`henrybao@uw.edu`](mailto:henrybao@uw.edu?subject=[GitHub])
+- E-mail [`henry@henrybao.net`](mailto:henry@henrybao.net?subject=[GitHub])
 - Discord [`Hackel#1337`](https://discord.com/users/271039148075384833)
 
 ### Current keyboard ⌨️
