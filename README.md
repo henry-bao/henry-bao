@@ -4,7 +4,8 @@
 - 🔭 Currently working on things related to Discord.js
 - 🌱 Learning Swift and TypeScript (Kotlin Soon™)
 - 🎉 Enthusiast to all things custom mechanical keyboard related
-- 😄 Pronouns - He/Him
+
+_Get my resume [here](resume.henrybao.net)!_
 
 ### Language and tools 🔨
 <p align="left">
