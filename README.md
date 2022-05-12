@@ -5,8 +5,6 @@
 - 🌱 Learning Swift and TypeScript (Kotlin Soon™)
 - 🎉 Enthusiast to all things custom mechanical keyboard related
 
-_Get my resume [here](resume.henrybao.net)!_
-
 ### Language and tools 🔨
 <p align="left">
     <a href="https://git-scm.com/" target="_blank">
