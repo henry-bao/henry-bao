@@ -96,4 +96,4 @@
 ### Current keyboard
 - ⌨️ [`Gok 7V`](https://www.gok.design/7v)
 
-<img src="/img/7v.jpg" alt="gok 7v keyboard" width="45%"/>
+<img src="/img/7v.jpg" alt="gok 7v keyboard" width="35%"/>
