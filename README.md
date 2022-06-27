@@ -1,11 +1,11 @@
 ## 👋 Hello there！
-### I'm Henry
-- 🏫 A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
-- 🔭 Currently working on things related to Discord.js
-- 🌱 Learning Swift and TypeScript (Kotlin Soon™)
-- 🎉 Enthusiast to all things custom mechanical keyboard related
+### 👤 I'm Henry
+- A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
+- Currently working on things related to Discord.js
+- Learning Swift and TypeScript (Kotlin Soon™)
+- Enthusiast to all things custom mechanical keyboard related
 
-### Language and tools
+### ⚒️ Language and tools
 <p align="left">
     <a href="https://git-scm.com/" target="_blank">
         <img
@@ -89,11 +89,11 @@
     </a>
 </p>
 
-### Contact me
-- 📧 E-mail [`henry@henrybao.net`](mailto:henry@henrybao.net?subject=[GitHub])
-- 👾 Discord [`Hackel#1337`](https://discord.com/users/271039148075384833)
+### 📬 Contact me
+- E-mail [`henry@henrybao.net`](mailto:henry@henrybao.net?subject=[GitHub])
+- Discord [`Hackel#1337`](https://discord.com/users/271039148075384833)
 
-### Current keyboard
-- ⌨️ [`Gok 7V`](https://www.gok.design/7v)
+### ⌨️ Current keyboard
+- [`Gok 7V`](https://www.gok.design/7v)
 
 <img src="/img/7v.jpg" alt="gok 7v keyboard" width="35%"/>
