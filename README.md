@@ -2,7 +2,7 @@
 ### 👤 I'm Henry
 - A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
 - Currently working on things related to Discord.js
-- Learning Swift and TypeScript (Kotlin Soon™)
+- Learning [GO](https://go.dev/)
 - Enthusiast to all things custom mechanical keyboard related
 
 ### ⚒️ Language and tools
