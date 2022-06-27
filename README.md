@@ -1,4 +1,4 @@
-## 👋 Hello there！
+# 👋 Hello there！
 ### 👤 I'm Henry
 - A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
 - Currently working on things related to Discord.js
