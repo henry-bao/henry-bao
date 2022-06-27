@@ -87,6 +87,14 @@
             height="40"
         />
     </a>
+    <a href="https://developer.apple.com/swift/" target="_blank">
+        <img
+            src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"
+            alt="mongodb"
+            width="40"
+            height="40"
+        />
+    </a>
 </p>
 
 ### 📬 Contact me
