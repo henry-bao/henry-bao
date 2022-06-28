@@ -1,4 +1,4 @@
-## 👋 Hello there,  I'm Henry
+## 👋 Hello there,  I'm [Henry](https://resume.henrybao.net)
 - A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
 - Currently working on things related to Discord.js
 - Learning [Go](https://go.dev/)
