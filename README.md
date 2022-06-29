@@ -106,10 +106,8 @@
 </p>
 
 ### 📬 Contact me
-- E-mail [`henry@henrybao.net`](mailto:henry@henrybao.net?subject=[GitHub])
-- Discord [`Hackel#1337`](https://discord.com/users/271039148075384833)
+- E-mail `henry@henrybao.net` [⤻](mailto:henry@henrybao.net?subject=[GitHub])
+- Discord `Hackel#1337` [⤻](https://discord.com/users/271039148075384833)
 
-### ⌨️ Current keyboard
-- [`Gok 7V`](https://www.gok.design/7v)
-
+### [⌨️](https://www.gok.design/7v) Current keyboard: Gok 7V
 <img src="/img/7v.jpg" alt="gok 7v keyboard" width="35%"/>
