@@ -1,6 +1,6 @@
 ## 👋 Hello there,  I'm [Henry](https://resume.henrybao.net)
 - A third-year college student studying [Informatics](https://en.wikipedia.org/wiki/Informatics)
-- Currently working on things related to Discord.js
+- Currently working on [Restock Alerts](https://www.restockalerts.app/) and things related to [Discord.js](https://discord.js.org/)
 - Learning [Go](https://go.dev/)
 - Enthusiast to all things custom mechanical keyboard related
 <hr>
