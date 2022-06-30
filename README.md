@@ -1,7 +1,7 @@
-## [👋](https://resume.henrybao.net) Hello there,  I'm Henry
-- A third-year college student studying [ℹ️](https://en.wikipedia.org/wiki/Informatics)`Informatics`
-- Currently working on [🔔](https://www.restockalerts.app/)`Restock Alerts` and things related to [👾](https://discord.js.org/)`Discord.js`
-- Learning [🐿](https://go.dev/)`Go`
+## [`👋`](https://resume.henrybao.net) Hello there,  I'm Henry
+- A third-year college student studying [`ℹ️`](https://en.wikipedia.org/wiki/Informatics) **Informatics**
+- Currently working on [`🔔`](https://www.restockalerts.app/) **Restock Alerts** and things related to [`👾`](https://discord.js.org/) **Discord.js**
+- Learning [`🐿`](https://go.dev/) **Go**
 - Enthusiast to all things custom mechanical keyboard related
 <hr>
 
@@ -106,8 +106,8 @@
 </p>
 
 ### 📬 Contact me
-- E-mail `henry@henrybao.net` [⤻](mailto:henry@henrybao.net?subject=[GitHub])
-- Discord `Hackel#1337` [⤻](https://discord.com/users/271039148075384833)
+- E-mail `henry@henrybao.net` [`⤻`](mailto:henry@henrybao.net?subject=[GitHub])
+- Discord `Hackel#1337` [`⤻`](https://discord.com/users/271039148075384833)
 
 ### [⌨️](https://www.gok.design/7v) Current keyboard: Gok 7V
 <img src="/img/7v.jpg" alt="gok 7v keyboard" width="35%"/>
