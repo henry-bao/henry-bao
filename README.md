@@ -1,5 +1,5 @@
 ## [`👋`](https://resume.bao.nyc) Hello there,  I'm Henry
-- A fourth-year college student studying [`ℹ️`](https://en.wikipedia.org/wiki/Informatics) **Informatics**
+- Pursuing M.S. in Applied Information Science & Information Systems at Cornell University
 - Currently working on [`🔔`](https://www.restockalerts.app/) **Restock Alerts** and things related to [`👾`](https://discord.js.org/) **Discord.js**
 - Learning [`🐿`](https://go.dev/) **Go**
 - Enthusiast to all things custom mechanical keyboard related
