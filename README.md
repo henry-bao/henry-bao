@@ -2,7 +2,7 @@
 - Pursuing M.S. in Applied Information Science & Information Systems at Cornell University
 - Currently working on [`🔔`](https://www.restockalerts.app/) **BuyScout** and things related to [`👾`](https://discord.js.org/) **Discord.js**
 - Learning [`🐿`](https://go.dev/) **Golang**
-- Enthusiast to all things custom mechanical keyboard related
+- Enthusiast to custom mechanical keyboards, vintage Polaroid cameras, and all things self-hosted
 <hr>
 
 ### ⚒️ Language and tools
