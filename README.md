@@ -1,7 +1,7 @@
 ## [`👋`](https://resume.bao.nyc) Hello there,  I'm Henry
 - Pursuing M.S. in Applied Information Science & Information Systems at Cornell University
-- Currently working on [`🔔`](https://www.restockalerts.app/) **Restock Alerts** and things related to [`👾`](https://discord.js.org/) **Discord.js**
-- Learning [`🐿`](https://go.dev/) **Go**
+- Currently working on [`🔔`](https://www.restockalerts.app/) **BuyScout** and things related to [`👾`](https://discord.js.org/) **Discord.js**
+- Learning [`🐿`](https://go.dev/) **Golang**
 - Enthusiast to all things custom mechanical keyboard related
 <hr>
 
