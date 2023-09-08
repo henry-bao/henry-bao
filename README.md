@@ -110,4 +110,4 @@
 - Discord `Hackel#1337` [`⤻`](https://discord.com/users/271039148075384833)
 
 ### [⌨️](https://www.gok.design/7v) Current keyboard: Gok 7V
-<img src="/img/7v.JPG" alt="gok 7v keyboard" width="35%"/>
+<img src="img/7v.JPG" alt="gok 7v keyboard" width="35%"/>
