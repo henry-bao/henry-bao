@@ -105,7 +105,7 @@
 </p>
 
 ### 📬 Contact me
-- E-mail `henry@bao.nyc` [`⤻`](mailto:henry@bao.nyc?subject=[GitHub])
+- E-mail `henry@bao.dev` [`⤻`](mailto:henry@bao.dev?subject=[GitHub])
 - Discord `hackel` [`⤻`](https://discord.com/users/271039148075384833)
 
 ### [⌨️](https://www.gok.design/7v) Current keyboard: Gok 7V
